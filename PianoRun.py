@@ -1,4 +1,3 @@
-from piano import PianoApp
+from assets.scripts.piano import PianoApp
 
-if __name__ == "__main__":
-	PianoApp().run()
+if __name__ == "__main__": PianoApp().run()
